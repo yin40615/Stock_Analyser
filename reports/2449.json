@@ -1,0 +1,85 @@
+{
+ "code": "2449",
+ "name": "京元電子",
+ "date": "2026-10-17",
+ "price": 275,
+ "rating": "暫不追高",
+ "entry_price": 220,
+ "summary": "AI 測試龍頭，GPU/ASIC 測試需求帶動 2026 年資本支出上修到 500 億元、輝達以預付款綁定美國產能，2027 年 EPS 法人看 14～15 元，成長確定性高。但現價本益比約 36 倍（5 年 94% 百分位），Fed 轉為升息壓抑評價，用 3 年合理目標回推年化報酬僅約 6%，建議等拉回到 220 元附近再分批佈局。",
+ "drivers": [
+  {
+   "title": "資本支出創高",
+   "tone": "good",
+   "text": "2026 年資本支出由 393.7 億元上修至 500 億元，主要用於 AI 高功率 Burn-in 與 TPU 相關廠房設備，法人預估產能擴充 30～50%；有約 900 億元銀行額度，短期不需增資。"
+  },
+  {
+   "title": "輝達預付款綁產能",
+   "tone": "good",
+   "text": "10/13 與 NVIDIA International 簽客戶預付款協議，在美國建置測試產能（投資上限 14 億美元，約 2028 年小量運轉），客戶黏著度與能見度提高。"
+  },
+  {
+   "title": "營收與 EPS 動能",
+   "tone": "good",
+   "text": "近 12 個月營收年增約 35%，法人預估 2027 年營收再增約 40%（Vera Rubin 放量、TPU/CPU 測試倍增），2027 年 EPS 約 14～15 元；FactSet 2026 年 EPS 中位數約 8.7 元。"
+  },
+  {
+   "title": "利率與評價",
+   "tone": "bad",
+   "text": "Fed 9 月升息至 3.75～4%，10/28 會議預期按兵不動、年底前仍可能再升一碼；美債殖利率走高壓抑高本益比成長股，評價難再擴張。"
+  },
+  {
+   "title": "折舊與籌碼",
+   "tone": "bad",
+   "text": "高資本支出帶來折舊壓力，可能干擾 2026 下半年毛利率；近 30 日外資賣超約 3.2 萬張、投信賣超約 1 萬張，股價在 300 元附近震盪。"
+  }
+ ],
+ "risks": [
+  "AI 資本支出放緩或 CSP 下修",
+  "升息延續、評價下修",
+  "折舊高峰壓抑毛利率",
+  "美國廠進度與成本超出預期",
+  "單一客戶（輝達）集中度高"
+ ],
+ "eps": {
+  "ttm": 7.63,
+  "fy2026e": 8.7,
+  "fy2027e": 14.7,
+  "y3": 19.4,
+  "y5": 22.6
+ },
+ "targets": {
+  "3y": {
+   "bear": 168,
+   "base": 330,
+   "bull": 550
+  },
+  "5y": {
+   "bear": 165,
+   "base": 362,
+   "bull": 651
+  }
+ },
+ "assumptions": "3 年（2029）EPS 悲觀 14／基本 19.4／樂觀 25 元 × 本益比 12／17／22 倍；5 年（2031）EPS 15／22.6／31 元 × 11／16／21 倍。基本情境：2027 年 EPS 14.7 元後年增 15%，2030 年起 8%；升息環境下本益比回到 5 年中位數附近。",
+ "sources": [
+  {
+   "title": "京元電大幅提高資本支出，大摩目標價 338 元（科技新報 2026/04）",
+   "url": "https://finance.technews.tw/2026/04/13/king-yuan-electric-significantly-increases-capital-expenditure-to-meet-demand/"
+  },
+  {
+   "title": "京元電與輝達簽預付款協議 擴美國產能（Yahoo 2026/10/13）",
+   "url": "https://tw.stock.yahoo.com/news/%E4%BA%AC%E5%85%83%E9%9B%BB%E8%88%87%E8%BC%9D%E9%81%94%E7%B0%BD%E9%A0%90%E4%BB%98%E6%AC%BE%E5%8D%94%E8%AD%B0-%E6%93%B4%E7%BE%8E%E5%9C%8B%E7%94%A2%E8%83%BD%E6%8F%90%E4%BE%9B%E6%B8%AC%E8%A9%A6%E6%9C%8D%E5%8B%99-090600579.html"
+  },
+  {
+   "title": "輝達捧預付款 綁京元電產能（工商時報 2026/10/14）",
+   "url": "https://www.chinatimes.com/newspapers/20261014000189-260202"
+  },
+  {
+   "title": "京元電營運升溫 資本支出二度上修（經濟日報）",
+   "url": "https://money.udn.com/money/story/5710/9478033"
+  },
+  {
+   "title": "Fed Rate Decision October 2026: Hike or Hold?（Admiral Markets）",
+   "url": "https://admiralmarkets.com/analytics/traders-blog/fed-rate-decision-october-2026"
+  }
+ ]
+}
