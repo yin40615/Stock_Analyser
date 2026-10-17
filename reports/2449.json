@@ -81,5 +81,22 @@
    "title": "Fed Rate Decision October 2026: Hike or Hold?（Admiral Markets）",
    "url": "https://admiralmarkets.com/analytics/traders-blog/fed-rate-decision-october-2026"
   }
+ ],
+ "events": [
+  {
+   "when": "2026-11",
+   "title": "Q3 法說會（預估月底）",
+   "type": "法說會"
+  },
+  {
+   "when": "2026Q4",
+   "title": "Rubin 測試放量",
+   "type": "爆發"
+  },
+  {
+   "when": "2028H1",
+   "title": "美國廠小量運轉",
+   "type": "產品"
+  }
  ]
 }
