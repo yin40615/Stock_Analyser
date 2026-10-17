@@ -89,5 +89,22 @@
    "title": "面板級封裝投資熱 相關族群（理財周刊）",
    "url": "https://www.moneyweekly.com.tw/_Article?AID=180104"
   }
+ ],
+ "events": [
+  {
+   "when": "2026-11-10",
+   "title": "10 月營收公布",
+   "type": "營收"
+  },
+  {
+   "when": "2026H2",
+   "title": "FOPLP 設備出貨",
+   "type": "產品"
+  },
+  {
+   "when": "2026H2",
+   "title": "日本市場開始供貨",
+   "type": "其他"
+  }
  ]
 }
