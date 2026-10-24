@@ -1,66 +1,72 @@
 {
- "date": "2026-10-17",
- "summary": "外資 10 月中旬大舉提款（10/15 單日賣超 3,025 億元創紀錄）、新台幣貶破 32 元，加上 Fed 已轉向升息，短線資金面與評價面都偏空；但台積電與雲端大廠資本支出持續上修，AI 基本面仍在擴張。操作上宜等籌碼止穩，優先挑估值合理、營收持續創高的 AI 供應鏈，避開高本益比追價。",
+ "date": "2026-10-24",
+ "summary": "AI 信用風險浮上檯面：CoreWeave 公司債殖利率 10/14 首度觸及 15%、10/20 創 15.76% 新高，市場開始質疑 AI 舉債擴建能否回收；10/22 費半重挫 6.72%，台股跌 846 點收 46,041、外資單日賣超 817 億、新台幣貶至 32.6。美 10 年債殖利率 10/7 觸 5.36%（2002 年來最高）後回落至約 5%，Fed 10/28 預期按兵不動。操作上避開高本益比、靠舉債擴張的 AI 題材，等 10/27 開盤是否守住季線與 10/28 Fed 再分批。",
  "items": [
   {
-   "title": "外資創紀錄賣超、新台幣貶破 32",
+   "title": "CoreWeave 債殖利率破 15%",
    "tone": "bad",
-   "text": "10/13 外資賣超 1,653 億元（史上第三大），10/15 再賣 3,025 億元創歷史新高，台積電、記憶體為主要提款標的；新台幣 10/15 收 32.265 元，連 5 黑，今年貶約 2.56%，為亞幣最弱。",
-   "impact": "權值股與高持股 AI 股短線承壓，籌碼止穩前不宜追高"
+   "text": "CoreWeave 2031 年到期債殖利率 10/14 觸 15.74%、10/20 再創 15.76% 新高（8 月僅約 11.3%），2032 年債約 14.7～14.9%，約為同天期美債 3 倍；5 年期 CDS 約 1,082bp 屬困境水準，股價跌至 17 個月低點、市值蒸發約 440 億美元。Goldman 估其平均借貸成本將再升 100～200bp。",
+   "impact": "AI 租算力/資料中心融資變貴，伺服器、散熱、電源等拉貨節奏恐放緩；高估值 AI 股評價承壓"
   },
   {
-   "title": "Fed 轉向升息，年底可能再升",
+   "title": "費半 10/22 重挫 6.72%",
    "tone": "bad",
-   "text": "Fed 9 月升息一碼至 3.75～4.00%，為三年多來首次；10/28 會議市場預期按兵不動，12 月再升息機率高，美債殖利率走高。",
-   "impact": "壓抑高本益比成長股評價，利率敏感族群與高估值 AI 股風險升高"
+   "text": "10/22 費半跌 6.72%、台積電 ADR 跌 4.52%，市場擔憂 AI 資本支出回收與油價走高；台股 10/22 早盤衝 47,332 後翻黑，收 46,041（-846 點、-1.81%），10/23 颱風休市，台指期夜盤再跌 580 點至 45,654，季線失守。",
+   "impact": "10/27 開盤補跌壓力大，AI 供應鏈短線波動放大，宜分批不追高"
   },
   {
-   "title": "AI 資本支出持續上修",
-   "tone": "good",
-   "text": "台積電 10/15 法說重申 2026 年資本支出 600～640 億美元、全年美元營收成長上修至約 44%，並稱 2026～2028 年投資明顯高於前三年；法人估四大雲端廠 2027 年資本支出上看 1 兆美元。",
-   "impact": "AI 伺服器、先進封測、測試、PCB 等供應鏈中長期營收有撐，回檔是布局機會"
-  },
-  {
-   "title": "費半與記憶體急殺",
+   "title": "外資連續賣超、台幣 32.6",
    "tone": "bad",
-   "text": "10/6～10/14 費半跌 11.6%、記憶體類股重挫 15.8%；市場開始檢視 AI 投資報酬與舉債蓋 AI 的風險，CoreWeave、甲骨文債券殖利率走高。",
-   "impact": "半導體評價修正尚未結束，記憶體與高槓桿 AI 概念股波動最大"
+   "text": "外資 10/22 單日賣超約 817 億元，先前已連 10 日賣超累計逾 8,000 億；新台幣一度貶至 32.6 元附近，股匯雙殺。",
+   "impact": "權值股與外資持股高的 AI 股籌碼面偏弱，內需、低本益比高殖利率股相對抗跌"
   },
   {
-   "title": "封測產能擴充創高",
+   "title": "美債 5% 附近、Fed 10/28 料按兵不動",
    "tone": "neutral",
-   "text": "封測業 2026 年資本支出創歷史新高，法人預期未來兩年維持高檔；需求來自 AI GPU / ASIC 測試，但折舊上升可能壓抑短期毛利率。",
-   "impact": "接單能見度高，但要留意折舊高峰對 EPS 的干擾，挑毛利率能維持的公司"
+   "text": "Fed 9/16 升息一碼至 3.75～4.00%；10 年債 10/7 觸 5.36%（2002 年來最高），10/21 5.13%、10/22 回落至 4.96%。CME FedWatch 顯示 10/28 升息機率由 27.7% 降至約 7%，市場預期維持利率。",
+   "impact": "利率高檔壓抑本益比，河流圖宜用中低段倍數；殖利率回落有助評價止跌"
+  },
+  {
+   "title": "Oracle 等 AI 舉債擴張受檢視",
+   "tone": "bad",
+   "text": "Oracle 總債務逾 1,000 億美元、自由現金流轉負，5 年 CDS 創 2009 年來新高；AI 雲端業者靠舉債蓋資料中心的模式正被債市重新定價。",
+   "impact": "雲端資本支出若轉保守，2027 年 AI 伺服器、ASIC、測試介面成長率可能下修"
+  },
+  {
+   "title": "台積電資本支出仍創高",
+   "tone": "good",
+   "text": "台積電 10/15 法說上修 2026 年資本支出至 600～640 億美元，AI 加速器營收年複合成長上修至約 44%，2026～2028 年產能仍緊。",
+   "impact": "先進製程、CoWoS、測試需求的長線趨勢未變，回檔是中長期佈局機會"
   }
  ],
  "sources": [
   {
-   "title": "外資單日賣超 1653 億元創史上第三大（優分析）",
-   "url": "https://uanalyze.com.tw/articles/1530456995"
+   "title": "CoreWeave Bond Yields Hit 15.5%, Shares at 17-Month Lows（Benzinga 2026-10）",
+   "url": "https://www.benzinga.com/markets/tech/26/10/62470728/coreweave-bond-yields-15-5-percent-shares-17-month-lows"
   },
   {
-   "title": "外資 7 個交易日狂賣逾 6000 億 新台幣淪最弱亞幣（自由財經）",
-   "url": "https://ec.ltn.com.tw/article/breakingnews/5607619"
+   "title": "CoreWeave Debt Stress Mounts: Bond Yield Hits Record（Benzinga 2026-10）",
+   "url": "https://www.benzinga.com/markets/bonds/26/10/62541064/coreweave-debt-stress-mounts-bond-yield-hits-record-as-stock-suffers-44-billion-wipeout"
   },
   {
-   "title": "〈台幣〉股匯雙殺 重貶摜破 32 元（優分析）",
-   "url": "https://uanalyze.com.tw/articles/2833457011"
+   "title": "CoreWeave bond yields stay near 15% as AI stocks rebound（CNBC 2026-10-19）",
+   "url": "https://www.cnbc.com/2026/10/19/coreweave-oracle-ai-credit-stress.html"
   },
   {
-   "title": "Fed Rate Decision October 2026（Admiral Markets）",
+   "title": "CoreWeave's Bond Rout Should Make the Fed Cautious（Bloomberg 2026-10-20）",
+   "url": "https://www.bloomberg.com/opinion/articles/2026-10-20/coreweave-s-bond-rout-should-make-the-fed-cautious"
+  },
+  {
+   "title": "Fed Rate Decision October 2026: Hike or Hold on 28 Oct?（Admiral Markets）",
    "url": "https://admiralmarkets.com/analytics/traders-blog/fed-rate-decision-october-2026"
   },
   {
-   "title": "台積電法說會 AI 摘要 2026/10/15（優分析）",
-   "url": "https://uanalyze.com.tw/articles/1564957177"
+   "title": "外資連10賣狂砍8,380億！台股跌529點回測季線（理財周刊）",
+   "url": "https://www.moneyweekly.com.tw/ArticleData/Info/Article/256862"
   },
   {
-   "title": "野村投信：迎接 Q4 行情，堅守基本面驗證（鉅亨）",
-   "url": "https://news.cnyes.com/news/id/6619411"
-  },
-  {
-   "title": "封測廠資本支出創高（經濟日報）",
-   "url": "https://money.udn.com/money/story/5607/9816466"
+   "title": "26-10-23 台股休市：季線失守後 10/27 開盤展望（方格子）",
+   "url": "https://vocus.cc/article/6adab984fd89780001412fea"
   }
  ]
 }
