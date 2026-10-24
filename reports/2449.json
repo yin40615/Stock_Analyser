@@ -1,48 +1,48 @@
 {
  "code": "2449",
  "name": "京元電子",
- "date": "2026-10-17",
- "price": 275,
- "rating": "暫不追高",
- "entry_price": 220,
- "summary": "AI 測試龍頭，GPU/ASIC 測試需求帶動 2026 年資本支出上修到 500 億元、輝達以預付款綁定美國產能，2027 年 EPS 法人看 14～15 元，成長確定性高。但現價本益比約 36 倍（5 年 94% 百分位），Fed 轉為升息壓抑評價，用 3 年合理目標回推年化報酬僅約 6%，建議等拉回到 220 元附近再分批佈局。",
+ "date": "2026-10-24",
+ "price": 262.5,
+ "rating": "觀望",
+ "entry_price": 215,
+ "summary": "AI 測試龍頭，Q3 營收 121.4 億創新高（年增 31%），已取得 Vera Rubin 預燒與成品測試訂單、輝達以預付款綁定產能，Rubin 第四季放量，2027 年 EPS 法人看 14～15 元。但 CoreWeave 債殖利率破 15% 引發 AI 資本支出疑慮，近 30 日外資賣超近 9 萬張、投信也賣；現價本益比 34 倍仍在 5 年 90% 分位附近。3 年基本目標 330 元回推年化約 8%，建議觀望，215 元附近再分批。",
  "drivers": [
   {
-   "title": "資本支出創高",
+   "title": "Q3 營收創新高",
    "tone": "good",
-   "text": "2026 年資本支出由 393.7 億元上修至 500 億元，主要用於 AI 高功率 Burn-in 與 TPU 相關廠房設備，法人預估產能擴充 30～50%；有約 900 億元銀行額度，短期不需增資。"
+   "text": "7～9 月營收 39.9／40.8／40.7 億元，Q3 合計 121.4 億，年增 31%、季增 9%；9 月年增率降至 24.5%。"
   },
   {
-   "title": "輝達預付款綁產能",
+   "title": "Rubin 測試獨家、第四季放量",
    "tone": "good",
-   "text": "10/13 與 NVIDIA International 簽客戶預付款協議，在美國建置測試產能（投資上限 14 億美元，約 2028 年小量運轉），客戶黏著度與能見度提高。"
+   "text": "自製預燒爐取得 Vera Rubin 預燒與成品測試訂單，輝達子公司簽預付協議鎖產能；Rubin 因散熱設計調整，量產落在第四季。"
   },
   {
-   "title": "營收與 EPS 動能",
-   "tone": "good",
-   "text": "近 12 個月營收年增約 35%，法人預估 2027 年營收再增約 40%（Vera Rubin 放量、TPU/CPU 測試倍增），2027 年 EPS 約 14～15 元；FactSet 2026 年 EPS 中位數約 8.7 元。"
+   "title": "法人目標價 350～390 元",
+   "tone": "neutral",
+   "text": "野村維持買入、目標 390 元；本土投顧 350～360 元，估 2026／2027 年 EPS 8.6／14.7～15.1 元。"
   },
   {
-   "title": "利率與評價",
+   "title": "AI 信用風險、利率 5%",
    "tone": "bad",
-   "text": "Fed 9 月升息至 3.75～4%，10/28 會議預期按兵不動、年底前仍可能再升一碼；美債殖利率走高壓抑高本益比成長股，評價難再擴張。"
+   "text": "CoreWeave 債殖利率 10/20 創 15.76%、10/22 費半跌 6.72%；美 10 年債約 5%，高本益比 AI 股評價承壓。"
   },
   {
-   "title": "折舊與籌碼",
+   "title": "法人大幅賣超",
    "tone": "bad",
-   "text": "高資本支出帶來折舊壓力，可能干擾 2026 下半年毛利率；近 30 日外資賣超約 3.2 萬張、投信賣超約 1 萬張，股價在 300 元附近震盪。"
+   "text": "近 30 日外資賣超 89,437 張、投信賣超 12,997 張，籌碼面轉弱。"
   }
  ],
  "risks": [
   "AI 資本支出放緩或 CSP 下修",
-  "升息延續、評價下修",
+  "Rubin 量產再遞延",
   "折舊高峰壓抑毛利率",
   "美國廠進度與成本超出預期",
   "單一客戶（輝達）集中度高"
  ],
  "eps": {
   "ttm": 7.63,
-  "fy2026e": 8.7,
+  "fy2026e": 8.86,
   "fy2027e": 14.7,
   "y3": 19.4,
   "y5": 22.6
@@ -59,33 +59,40 @@
    "bull": 651
   }
  },
- "assumptions": "3 年（2029）EPS 悲觀 14／基本 19.4／樂觀 25 元 × 本益比 12／17／22 倍；5 年（2031）EPS 15／22.6／31 元 × 11／16／21 倍。基本情境：2027 年 EPS 14.7 元後年增 15%，2030 年起 8%；升息環境下本益比回到 5 年中位數附近。",
- "sources": [
+ "assumptions": "3 年（2029）EPS 悲觀 14／基本 19.4／樂觀 25 元 × 本益比 12／17／22 倍；5 年（2031）EPS 15／22.6／31 元 × 11／16／21 倍。基本情境：2027 年 Rubin 全年貢獻 EPS 14.7 元，之後年增 15%，2030 年起 8%；高利率下本益比回到 5 年中位 17 倍。",
+ "quarters": [
   {
-   "title": "京元電大幅提高資本支出，大摩目標價 338 元（科技新報 2026/04）",
-   "url": "https://finance.technews.tw/2026/04/13/king-yuan-electric-significantly-increases-capital-expenditure-to-meet-demand/"
+   "q": "2026Q3",
+   "revenue": 121.4,
+   "gm": 40.0,
+   "om": 25.5,
+   "eps": 2.35,
+   "price": 259,
+   "note": "月營收已公布，折舊壓毛利"
   },
   {
-   "title": "京元電與輝達簽預付款協議 擴美國產能（Yahoo 2026/10/13）",
-   "url": "https://tw.stock.yahoo.com/news/%E4%BA%AC%E5%85%83%E9%9B%BB%E8%88%87%E8%BC%9D%E9%81%94%E7%B0%BD%E9%A0%90%E4%BB%98%E6%AC%BE%E5%8D%94%E8%AD%B0-%E6%93%B4%E7%BE%8E%E5%9C%8B%E7%94%A2%E8%83%BD%E6%8F%90%E4%BE%9B%E6%B8%AC%E8%A9%A6%E6%9C%8D%E5%8B%99-090600579.html"
+   "q": "2026Q4",
+   "revenue": 132,
+   "gm": 41.0,
+   "om": 26.5,
+   "eps": 2.6,
+   "price": 266,
+   "note": "Rubin 測試開始放量"
   },
   {
-   "title": "輝達捧預付款 綁京元電產能（工商時報 2026/10/14）",
-   "url": "https://www.chinatimes.com/newspapers/20261014000189-260202"
-  },
-  {
-   "title": "京元電營運升溫 資本支出二度上修（經濟日報）",
-   "url": "https://money.udn.com/money/story/5710/9478033"
-  },
-  {
-   "title": "Fed Rate Decision October 2026: Hike or Hold?（Admiral Markets）",
-   "url": "https://admiralmarkets.com/analytics/traders-blog/fed-rate-decision-october-2026"
+   "q": "2027Q1",
+   "revenue": 145,
+   "gm": 41.5,
+   "om": 27.5,
+   "eps": 3.1,
+   "price": 283,
+   "note": "Rubin 預燒全面貢獻"
   }
  ],
  "events": [
   {
    "when": "2026-11",
-   "title": "Q3 法說會（預估月底）",
+   "title": "Q3 法說會（預估）",
    "type": "法說會"
   },
   {
@@ -97,6 +104,28 @@
    "when": "2028H1",
    "title": "美國廠小量運轉",
    "type": "產品"
+  }
+ ],
+ "sources": [
+  {
+   "title": "外資野村看京元電測試時長仍處於上升趨勢，維持買入（方格子）",
+   "url": "https://vocus.cc/article/6a45ac5cfd89780001ce8e9a"
+  },
+  {
+   "title": "目標價360元！半導體測試大廠 EPS估達14.66元 Vera Rubin放量（FTNN）",
+   "url": "https://www.ftnn.com.tw/news/587382"
+  },
+  {
+   "title": "目標價350元！封測大廠 EPS挑戰15元 輝達提前包下產能（FTNN）",
+   "url": "https://www.ftnn.com.tw/news/588122"
+  },
+  {
+   "title": "京元電Q1獲利低預期 4外資仍升價（旺得富 2026-05-11）",
+   "url": "https://wantrich.chinatimes.com/news/20260511900325-420101"
+  },
+  {
+   "title": "CoreWeave shares tumble as bond yields near 15%（CNBC 2026-10-14）",
+   "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html"
   }
  ]
 }
