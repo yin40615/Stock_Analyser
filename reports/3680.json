@@ -158,5 +158,19 @@
    "title": "家登上半年營收年增 22%、韓國 FOUP 訂單（財報狗）",
    "url": "https://statementdog.com/news/17101"
   }
+ ],
+ "themes": [
+  {
+   "theme": "2 奈米／EUV",
+   "role": "EUV 光罩盒",
+   "stage": "量產",
+   "fact": "EUV Pod 2026 全年營收年增挑戰 50% 以上（2026/8/27 法說）"
+  },
+  {
+   "theme": "CoWoS／先進封裝",
+   "role": "先進封裝載具",
+   "stage": "認證",
+   "fact": "公司預期 2027 年先進封裝業務顯著貢獻"
+  }
  ]
 }
