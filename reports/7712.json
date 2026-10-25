@@ -149,5 +149,13 @@
    "title": "博盛月營收（Yahoo 股市）",
    "url": "https://tw.stock.yahoo.com/quote/7712.TWO/revenue"
   }
+ ],
+ "themes": [
+  {
+   "theme": "AI 伺服器電源／散熱",
+   "role": "Hot Swap MOSFET",
+   "stage": "出貨",
+   "fact": "Hot Swap MOSFET 切入 NVIDIA 機櫃 Sidecar，AI 應用營收占比約 12%"
+  }
  ]
 }
