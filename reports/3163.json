@@ -1,0 +1,157 @@
+{
+ "code": "3163",
+ "name": "波若威",
+ "date": "2026-10-25",
+ "price": 552,
+ "rating": "可逢回買",
+ "entry_price": 506,
+ "summary": "被動光通訊元件廠，FAU、Shuffle Box 打入 NVIDIA Vera Rubin 平台，CPO 產品 2026Q3 小量測試、Q4 量產達千級，2027Q1 擴大；菲律賓廠擴增 2～3 倍。但毛利率僅 15～19%，2026Q2 EPS 掉到 0.93 元；9 月營收 2.42 億元、年增 27%。本益比 56 倍、股價自高點 1,315 元回落近六成。以 3 年 EPS 約 22 元 × 35 倍估合理價約 770 元，年化約 12%；CPO 放量時程與毛利率不確定，悲觀情境跌幅大，宜逢回再買。",
+ "drivers": [
+  {
+   "title": "擴產：菲律賓廠 2～3 倍",
+   "tone": "good",
+   "text": "菲律賓廠為主要製造區，產能擴增 2～3 倍、以自有產線為主，資本支出增加（經濟日報 2026）。"
+  },
+  {
+   "title": "CPO 打入 Vera Rubin",
+   "tone": "good",
+   "text": "以 FAU、Shuffle Box 打入 NVIDIA Vera Rubin；CPO 2026Q3 小量測試、Q4 量產千級、2027Q1 擴大（Yahoo 2026/3）。"
+  },
+  {
+   "title": "毛利率偏低",
+   "tone": "bad",
+   "text": "毛利率 2026Q1 18.9%、Q2 15.2%，營益率 1.7%；Q2 EPS 0.93 元。"
+  },
+  {
+   "title": "營收溫和成長",
+   "tone": "neutral",
+   "text": "7/8/9 月營收 2.10/2.05/2.42 億元；上半年 12.48 億元、年增 17.5%。"
+  },
+  {
+   "title": "利率與評價",
+   "tone": "bad",
+   "text": "本益比 56 倍，在 5 年第 50～75 百分位；股價波動極大（52 週 214～1,315 元）。"
+  }
+ ],
+ "risks": [
+  "CPO 放量延後",
+  "毛利率無法改善",
+  "高本益比修正"
+ ],
+ "eps": {
+  "ttm": 9.8,
+  "fy2026e": 9.5,
+  "fy2027e": 15,
+  "y3": 22,
+  "y5": 28
+ },
+ "targets": {
+  "3y": {
+   "bear": 160,
+   "base": 770,
+   "bull": 1750,
+   "moon": 1925.0,
+   "moon_note": "3 年 EPS 22 × 1.25（產能／訂單優於預期）× 本益比 70 倍（5 年第 90 百分位 88，上限為合理倍數 35 的 2 倍）"
+  },
+  "5y": {
+   "bear": 160,
+   "base": 840,
+   "bull": 1750
+  }
+ },
+ "assumptions": "EPS：2026 約 9.5 元（Q1 3.03＋Q2 0.93＋Q3 約 2.5＋Q4 約 3），2027 年 CPO 放量約 15 元，3 年 22 元、5 年 28 元。本益比：悲觀 20 倍 × EPS 8（CPO 延後）、基本 35 倍、樂觀 50 倍 × EPS 35；5 年基本 30 倍。無 FactSet 共識。",
+ "themes": [
+  {
+   "theme": "矽光子／CPO",
+   "role": "FAU、Shuffle Box 被動元件",
+   "stage": "認證",
+   "fact": "打入 NVIDIA Vera Rubin；CPO 2026Q3 小量測試、Q4 量產千級（2026/3 法說）"
+  }
+ ],
+ "quarters": [
+  {
+   "q": "2026Q3",
+   "revenue": 6.57,
+   "gm": 18.0,
+   "om": 5.0,
+   "eps": 2.5,
+   "price": 560,
+   "note": "月營收已公布，CPO 小量測試"
+  },
+  {
+   "q": "2026Q4",
+   "revenue": 7.2,
+   "gm": 19.0,
+   "om": 6.0,
+   "eps": 3.0,
+   "price": 600,
+   "note": "CPO 量產千級"
+  },
+  {
+   "q": "2027Q1",
+   "revenue": 8.0,
+   "gm": 20.0,
+   "om": 7.0,
+   "eps": 3.5,
+   "price": 640,
+   "note": "CPO 規模擴大"
+  }
+ ],
+ "events": [
+  {
+   "when": "2026Q4",
+   "title": "CPO 量產千級",
+   "type": "產品"
+  },
+  {
+   "when": "2027Q1",
+   "title": "CPO 量產擴大",
+   "type": "爆發"
+  }
+ ],
+ "basis": [
+  {
+   "factor": "產能／擴廠",
+   "fact": "菲律賓廠擴增 2～3 倍、自有產線為主（經濟日報 9465556）",
+   "effect": "2027 年營收可望年增 3～5 成"
+  },
+  {
+   "factor": "在手訂單／客戶",
+   "fact": "FAU、Shuffle Box 打入 NVIDIA Vera Rubin；Q4 量產千級（Yahoo 2026/3）",
+   "effect": "2027 年 EPS 約 15 元"
+  },
+  {
+   "factor": "市場需求",
+   "fact": "CPO 市場 2026～2031 CAGR 逾 35%（鉅亨）",
+   "effect": "3 年 EPS 約 22 元"
+  },
+  {
+   "factor": "毛利率",
+   "fact": "2026Q2 毛利率 15.2%、營益率 1.7%",
+   "effect": "悲觀情境 EPS 約 8 元"
+  },
+  {
+   "factor": "分析師共識",
+   "fact": "未找到 FactSet EPS 預估",
+   "effect": "依公司時程推估"
+  }
+ ],
+ "sources": [
+  {
+   "title": "波若威 CPO 產品力拚 2026 量產（Yahoo）",
+   "url": "https://tw.stock.yahoo.com/news/%E6%B3%A2%E8%8B%A5%E5%A8%81cpo%E7%94%A2%E5%93%81-%E5%8A%9B%E6%8B%9A2026%E9%87%8F%E7%94%A2-201000201.html"
+  },
+  {
+   "title": "波若威、華星光衝刺 CPO（經濟日報）",
+   "url": "https://money.udn.com/money/amp/story/5607/9465556"
+  },
+  {
+   "title": "AI＋CPO 雙引擎 波若威創新高（優分析）",
+   "url": "https://uanalyze.com.tw/articles/2762144108"
+  },
+  {
+   "title": "波若威做什麼（nStock）",
+   "url": "https://shop.nstock.tw/波若威做什麼.html"
+  }
+ ]
+}
