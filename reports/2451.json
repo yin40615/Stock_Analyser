@@ -154,5 +154,13 @@
    "title": "創見營運（中時新聞網 2025-11-13）",
    "url": "https://wantrich.chinatimes.com/news/20251113900091-420101"
   }
+ ],
+ "themes": [
+  {
+   "theme": "HBM／記憶體缺貨",
+   "role": "記憶體模組／控制晶片",
+   "stage": "量產",
+   "fact": "工控 DRAM／Flash 模組，2026Q2 毛利率 77%"
+  }
  ]
 }
