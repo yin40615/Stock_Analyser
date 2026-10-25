@@ -149,5 +149,13 @@
    "title": "華邦電營運（財報狗）",
    "url": "https://statementdog.com/news/17346"
   }
+ ],
+ "themes": [
+  {
+   "theme": "HBM／記憶體缺貨",
+   "role": "利基型 DRAM／Flash 製造",
+   "stage": "量產",
+   "fact": "高雄廠 16 奈米 DRAM 月產能 1.45 萬 → 2.5 萬片"
+  }
  ]
 }
