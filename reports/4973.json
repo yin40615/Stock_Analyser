@@ -131,5 +131,13 @@
    "title": "廣穎月營收（Yahoo 股市）",
    "url": "https://tw.stock.yahoo.com/quote/4973/revenue"
   }
+ ],
+ "themes": [
+  {
+   "theme": "HBM／記憶體缺貨",
+   "role": "記憶體模組／控制晶片",
+   "stage": "量產",
+   "fact": "記憶體模組，Q2 營收創新高"
+  }
  ]
 }
