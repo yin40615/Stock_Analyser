@@ -1,0 +1,153 @@
+{
+ "code": "7712",
+ "name": "博盛半導體",
+ "date": "2026-10-25",
+ "price": 143,
+ "rating": "可逢回買",
+ "entry_price": 136,
+ "summary": "MOSFET 廠，海外營收逾五成，受惠歐美客戶降低對中國 MOSFET 依賴；Hot Swap MOSFET 據報切入 NVIDIA 機櫃 Sidecar，AI 應用營收占比由 2～4% 提升到約 12%，車用 MOSFET 年出貨有望逾 4 千萬顆。7～9 月營收 5.19 億元、年增約 65%，Q2 EPS 2.06 元。本益比 20.6 倍略低於 5 年中位 21.7 倍。以 3 年 EPS 約 11.5 元 × 18 倍估合理價約 207 元，年化約 13%，可逢回買。",
+ "drivers": [
+  {
+   "title": "AI 與車用 MOSFET 放量",
+   "tone": "good",
+   "text": "AI 應用營收占比升至約 12%，Hot Swap MOSFET 切入 NVIDIA 機櫃 Sidecar；車用 MOSFET 年出貨有望逾 4 千萬顆（經濟日報 2026）。"
+  },
+  {
+   "title": "去中化轉單",
+   "tone": "good",
+   "text": "海外營收占比逾五成，歐美客戶降低對中國 MOSFET 的依賴。"
+  },
+  {
+   "title": "營收加速",
+   "tone": "good",
+   "text": "7/8/9 月營收 1.68/1.71/1.80 億元，9 月年增 79.6%；2026Q2 營收 4.28 億元、EPS 2.06 元。"
+  },
+  {
+   "title": "擴產：無明確數字",
+   "tone": "neutral",
+   "text": "訂單能見度看到第三季，布局 SiC／GaN；未找到具體擴產或資本支出金額。"
+  },
+  {
+   "title": "利率與評價",
+   "tone": "neutral",
+   "text": "本益比 20.6 倍，在 5 年第 25～50 百分位；毛利率約 35%。"
+  }
+ ],
+ "risks": [
+  "MOSFET 價格競爭",
+  "AI 機櫃出貨節奏",
+  "產能不足或委外代工成本上升"
+ ],
+ "eps": {
+  "ttm": 6.93,
+  "fy2026e": 8.5,
+  "fy2027e": 9.8,
+  "y3": 11.5,
+  "y5": 13.5
+ },
+ "targets": {
+  "3y": {
+   "bear": 84,
+   "base": 207,
+   "bull": 336,
+   "moon": 462.9,
+   "moon_note": "3 年 EPS 11.5 × 1.25（產能／訂單優於預期）× 本益比 32 倍（5 年第 90 百分位 32，上限為合理倍數 18 的 2 倍）"
+  },
+  "5y": {
+   "bear": 85,
+   "base": 230,
+   "bull": 360
+  }
+ },
+ "assumptions": "EPS：2026 約 8.5 元（Q1 1.42＋Q2 2.06＋Q3 約 2.5＋Q4 約 2.5），2027 年 +15% 約 9.8 元，3 年 11.5 元、5 年 13.5 元。本益比：悲觀 14 倍 × EPS 6、基本 18 倍、樂觀 24 倍 × EPS 14；5 年基本 17 倍。無 FactSet 共識。",
+ "quarters": [
+  {
+   "q": "2026Q3",
+   "revenue": 5.19,
+   "gm": 35.0,
+   "om": 20.0,
+   "eps": 2.5,
+   "price": 150,
+   "note": "月營收已公布，季增約 21%"
+  },
+  {
+   "q": "2026Q4",
+   "revenue": 5.3,
+   "gm": 35.0,
+   "om": 20.0,
+   "eps": 2.5,
+   "price": 160,
+   "note": "AI 與車用續成長"
+  },
+  {
+   "q": "2027Q1",
+   "revenue": 5.2,
+   "gm": 35.0,
+   "om": 19.5,
+   "eps": 2.4,
+   "price": 165,
+   "note": "海外客戶轉單"
+  }
+ ],
+ "events": [
+  {
+   "when": "2026-11",
+   "title": "Q3 財報",
+   "type": "財報"
+  },
+  {
+   "when": "2027H1",
+   "title": "AI 機櫃 MOSFET 放量",
+   "type": "爆發"
+  }
+ ],
+ "basis": [
+  {
+   "factor": "在手訂單／客戶",
+   "fact": "訂單能見度看到第三季；Hot Swap MOSFET 切入 NVIDIA 機櫃 Sidecar（Money 錢、經濟日報）",
+   "effect": "AI 營收占比提升，2027 年 EPS 約 9.8 元"
+  },
+  {
+   "factor": "市場需求",
+   "fact": "海外營收占比逾五成，歐美客戶去中化；車用 MOSFET 年出貨有望逾 4 千萬顆（Yahoo 熱門族群）",
+   "effect": "營收年增 15～20%"
+  },
+  {
+   "factor": "產能／擴產",
+   "fact": "布局 SiC 與 GaN；未找到擴產金額",
+   "effect": "3 年後 EPS 以年增約 10% 估"
+  },
+  {
+   "factor": "毛利率",
+   "fact": "2025 年毛利率約 33%，2026Q2 34.9%",
+   "effect": "營益率約 20% 推估季 EPS"
+  },
+  {
+   "factor": "分析師共識",
+   "fact": "未找到 FactSet EPS 預估",
+   "effect": "依公司說法與月營收推估"
+  }
+ ],
+ "sources": [
+  {
+   "title": "博盛 5 月自結獲利由虧轉盈（經濟日報）",
+   "url": "https://money.udn.com/money/amp/story/5607/9588254"
+  },
+  {
+   "title": "博盛 5 月 EPS 0.75 元（經濟日報）",
+   "url": "https://money.udn.com/money/amp/story/5607/9588782"
+  },
+  {
+   "title": "博盛半導體分析（Money 錢）",
+   "url": "https://www.moneyweekly.com.tw/_Article?AID=221565"
+  },
+  {
+   "title": "車用需求增 強茂、博盛看旺（Yahoo）",
+   "url": "https://tw.stock.yahoo.com/news/%E7%86%B1%E9%96%80%E6%97%8F%E7%BE%A4-%E8%BB%8A%E7%94%A8%E9%9C%80%E6%B1%82%E5%A2%9E-%E5%BC%B7%E8%8C%82-%E5%8D%9A%E7%9B%9B%E7%9C%8B%E6%97%BA-000357698.html"
+  },
+  {
+   "title": "博盛月營收（Yahoo 股市）",
+   "url": "https://tw.stock.yahoo.com/quote/7712.TWO/revenue"
+  }
+ ]
+}
