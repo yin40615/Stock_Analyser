@@ -149,5 +149,13 @@
    "title": "威剛營運（NOWnews）",
    "url": "https://www.nownews.com/news/6757598"
   }
+ ],
+ "themes": [
+  {
+   "theme": "HBM／記憶體缺貨",
+   "role": "記憶體模組／控制晶片",
+   "stage": "量產",
+   "fact": "DRAM／NAND 模組，2026Q2 EPS 32.39 元"
+  }
  ]
 }
