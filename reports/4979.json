@@ -157,5 +157,33 @@
    "title": "華星光分析（Money 錢 AID=238397）",
    "url": "https://www.moneyweekly.com.tw/_Article?AID=238397"
   }
- ]
+ ],
+ "thesis": {
+  "why": "AI 光通訊的雷射光源供應商，CW Laser 產能倍增、訂單看到 2028 年，公司說 2027 年跳躍成長；CPO 是額外選擇權。",
+  "value": [
+   "800G／1.6T CW Laser 量產能力",
+   "在手訂單到 2028 年",
+   "矽光子／CPO 長期題材"
+  ],
+  "growth": [
+   {
+    "driver": "CW Laser 月產能 150 萬 → 300～400 萬顆",
+    "revenue": "2027 年營收約 75 億元",
+    "eps": "EPS 7.2 → 13 元（+5.8）",
+    "when": "2026Q4"
+   },
+   {
+    "driver": "桃園新廠",
+    "revenue": "產能再擴充",
+    "eps": "3 年 EPS 約 18 元",
+    "when": "2027H2"
+   }
+  ]
+ },
+ "odds": {
+  "bear": 35,
+  "base": 35,
+  "bull": 20,
+  "moon": 8
+ }
 }
