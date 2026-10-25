@@ -128,5 +128,19 @@
    "title": "家碩個股新聞（MoneyLink）",
    "url": "https://ww2.money-link.com.tw/TWStock/StockNews.aspx?SymId=6953"
   }
+ ],
+ "themes": [
+  {
+   "theme": "2 奈米／EUV",
+   "role": "EUV 光罩相關設備",
+   "stage": "量產",
+   "fact": "2026/6 法說：在手訂單良好，動能來自先進製程 EUV 光罩相關設備"
+  },
+  {
+   "theme": "CoWoS／先進封裝",
+   "role": "設備",
+   "stage": "規劃",
+   "fact": "拓展 CoWoS 等先進封裝應用（2026/6 法說）"
+  }
  ]
 }
