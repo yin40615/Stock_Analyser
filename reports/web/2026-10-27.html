@@ -32,9 +32,17 @@ footer{font-size:12px;color:#7f8aa8;margin-top:16px;line-height:1.6}
 const $ = s => document.querySelector(s), esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const fmt = v => v == null ? "—" : (+v).toLocaleString("zh-TW", { maximumFractionDigits: v < 100 ? 2 : v < 1000 ? 1 : 0 });
 const stars = n => "★".repeat(Math.floor(n)) + (n % 1 >= .5 ? "☆" : "") + "<em>" + "★".repeat(5 - Math.floor(n) - (n % 1 >= .5 ? 1 : 0)) + "</em><b>" + n.toFixed(1) + "</b>";
+// #r=2330_2400_4,…&b=…&rc=ai,ann,roe-12&bc=…&t=10.27-22.55 (written by the app: picks, conditions, quote time)
+const RC = { ai: ["AI 評為可進場"], ann: ["合理價年化 ≥ {v}%", 15], bear: ["悲觀虧損 ≤ {v}%", 40], rr: ["賺賠比 ≥ {v}", 1.5], peg: ["PEG ≤ {v}", 1],
+  rev: ["營收年增 ≥ {v}% 或加速", 20], river: ["本益比在 5 年後 {v}%", 40], gm: ["毛利率連 2 季不降"], roe: ["ROE ≥ {v}%", 15], cash: ["現金流正、負債比 < {v}%", 60] };
+const BC = { boost: ["明年 EPS ≥ 近四季 {v} 倍", 1.8], theme: ["題材已量產／出貨"], ann: ["3 年年化 ≥ {v}%", 15], ai: ["AI 評為可進場"], bear: ["悲觀虧損 ≤ {v}%", 50],
+  rev: ["近 3 月營收年增 ≥ {v}%", 20], river: ["本益比在 5 年後 {v}%", 60] };
 function hashData() {
-  const m = location.hash.match(/p=([\w-]+)/); if (!m) return null;
-  try { return JSON.parse(decodeURIComponent(escape(atob(m[1].replace(/-/g, "+").replace(/_/g, "/"))))); } catch { return null; }
+  const q = new URLSearchParams(location.hash.slice(1)); if (!q.has("r")) return null;
+  const rows = s => (s || "").split(",").filter(Boolean).map(x => { const [c, p, st] = x.split("_"); return [c, +p, +st]; });
+  const cond = (s, D) => { const ks = (s || "").split(",").filter(Boolean); return "篩選條件（" + ks.length + " 項全過）：" + ks.map(k => { const [n, v] = k.split("-"), d = D[n]; return d ? d[0].replace("{v}", v ?? d[1]) : n; }).join("・"); };
+  const t = (q.get("t") || "").match(/(\d+)\.(\d+)-(\d+)\.(\d+)/);
+  return { r: rows(q.get("r")), b: rows(q.get("b")), rc: cond(q.get("rc"), RC), bc: cond(q.get("bc"), BC), t: t ? t[1] + "/" + t[2] + " " + t[3] + ":" + t[4] : "" };
 }
 function card(S, c, p, st, boom) {
   const a = S[c]; if (!a) return "";
