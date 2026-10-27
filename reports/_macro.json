@@ -1,7 +1,19 @@
 {
- "date": "2026-10-26",
- "summary": "台股 10/23 颱風休市、10/26 光復節補假，連休四天後 10/27（二）才開盤，連假前加權收 46,021、已失守季線 46,207。連假期間美股 10/23 道瓊跌 652 點（-1.23%），布蘭特結算 116.7 美元、WTI 103.3 美元創 4 月來新高，黃金跌破 4,010；費半逆勢 +0.44%、台積電 ADR +1.49%，但費半週線仍跌 3.21%、連三黑。10/27 開盤看外資賣壓與台積電半年線 2,384 元，10/28 Fed 預期按兵不動。",
+ "date": "2026-10-27",
+ "summary": "連假後 10/27 台股開高走低再收紅：加權最高 46,585，終場 46,096（+55 點、+0.12%），成交 9,765 億。外資賣超 81 億但對台積電只賣 1,618 張、為這波連賣最少，投信大買 236 億撐盤，三大法人合計買超 31 億。美股 10/26 因 Anthropic 遞件 IPO 帶動 AI 樂觀，那斯達克 +0.82%、S&P 500 +0.7%；油價回落、金價重回 4,000 美元。本週關鍵：10/28 Fed、微軟／Alphabet／亞馬遜財報。",
  "items": [
+  {
+   "title": "連假後收紅、投信買 236 億",
+   "tone": "good",
+   "text": "10/27 加權開高至 46,585 後一度翻黑，終場 46,096（+54.8 點）；投信買超 236.45 億、外資賣超 81.04 億、自營商賣超約 124 億，三大法人合計買超 31.42 億。外資賣台積電僅 1,618 張，為這波連賣最少。",
+   "impact": "外資賣壓減輕、投信撐盤，季線附近整理；看本週 Fed 與美科技財報"
+  },
+  {
+   "title": "Anthropic 遞件 IPO、美科技反彈",
+   "tone": "good",
+   "text": "10/26 Anthropic 遞件 IPO 帶動 AI 樂觀，那斯達克 +0.82% 收 26,169、S&P 500 +0.7% 收約 7,677、道瓊 +0.28%；油價自上週高點回落。",
+   "impact": "AI 情緒回溫，有利台積電等 AI 權值止跌；但信用風險仍未解"
+  },
   {
    "title": "CoreWeave 債殖利率破 15%",
    "tone": "bad",
@@ -25,21 +37,33 @@
    "tone": "bad",
    "text": "外資 10 月以來累計賣超逾 8,200 億元，10/22 單日賣超 817 億；新台幣一度貶至 32.6。八大公股行庫連日買進護盤，與外資對作。",
    "impact": "權值股與外資持股高的 AI 股籌碼面偏弱，內需、低本益比高殖利率股相對抗跌"
-  },
-  {
-   "title": "美債 5% 附近、Fed 10/28 料按兵不動",
-   "tone": "neutral",
-   "text": "Fed 9/16 升息一碼至 3.75～4.00%；10 年債 10/7 觸 5.36%（2002 年來最高），10/21 5.13%、10/22 回落至 4.96%。CME FedWatch 顯示 10/28 升息機率由 27.7% 降至約 7%，市場預期維持利率。",
-   "impact": "利率高檔壓抑本益比，河流圖宜用中低段倍數；殖利率回落有助評價止跌"
-  },
-  {
-   "title": "Oracle 等 AI 舉債擴張受檢視",
-   "tone": "bad",
-   "text": "Oracle 總債務逾 1,000 億美元、自由現金流轉負，5 年 CDS 創 2009 年來新高；AI 雲端業者靠舉債蓋資料中心的模式正被債市重新定價。",
-   "impact": "雲端資本支出若轉保守，2027 年 AI 伺服器、ASIC、測試介面成長率可能下修"
   }
  ],
  "sources": [
+  {
+   "title": "台股震盪逾900點驚險收紅！投信大買236億撐盤（新頭殼 10/27）",
+   "url": "https://newtalk.tw/news/view/2026-10-27/1067720"
+  },
+  {
+   "title": "三大法人買超台股31.42億元（華視 10/27）",
+   "url": "https://news.cts.com.tw/cna/money/202610/202610273094348.html"
+  },
+  {
+   "title": "外資連13砍台積電！今賣壓驟減 反手狂買力積電5.6萬張（ETtoday 10/27）",
+   "url": "https://finance.ettoday.net/news/3261727"
+  },
+  {
+   "title": "外資大砍友達9.6萬張最凶（鉅亨 10/27）",
+   "url": "https://news.cnyes.com/news/id/6638620"
+  },
+  {
+   "title": "Stock Market Today Oct. 26, 2026: Nasdaq, S&P 500 jump after Anthropic IPO announcement（TheStreet）",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026"
+  },
+  {
+   "title": "〈貴金屬盤後〉金價收復4000美元 油價下跌緩解升息焦慮（CMoney）",
+   "url": "https://www.cmoney.tw/forum/article/186758071"
+  },
   {
    "title": "美股盤後：油價衝破100美元 道瓊挫逾650點 費半小幅收紅、周線連三黑（鉅亨 10/24）",
    "url": "https://news.cnyes.com/news/id/6636803"
@@ -119,60 +143,12 @@
   {
    "title": "【10/22 產業即時新聞】玻璃陶瓷飆漲7.66%，台玻強勢帶頭（CMoney）",
    "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1282387"
-  },
-  {
-   "title": "CoWoS 上修機會藏在哪（優分析 2026/9）",
-   "url": "https://uanalyze.com.tw/index.php/articles/9531755299"
-  },
-  {
-   "title": "2026 矽光子大規模商轉（優分析）",
-   "url": "https://uanalyze.com.tw/articles/6946742097"
-  },
-  {
-   "title": "CPO 市場與供應鏈（鉅亨網）",
-   "url": "https://news.cnyes.com/news/id/6343060"
-  },
-  {
-   "title": "TGV 玻璃穿孔與 2027 量產（永豐金證券）",
-   "url": "https://www.sinotrade.com.tw/richclub/industry/TGV-%E7%8E%BB%E7%92%83%E7%A9%BF%E5%AD%94%E5%AE%8C%E6%95%B4%E6%8B%86%E8%A7%A3-Intel-%E7%8E%BB%E7%92%83%E5%9F%BA%E6%9D%BF%E7%99%BB%E5%A0%B4%E5%BE%8C-%E7%9C%8B%E6%87%82%E7%A1%AC%E9%96%80%E6%AA%BB-2027-%E9%87%8F%E7%94%A2%E5%80%92%E6%95%B8%E8%88%87%E5%8F%B0%E7%81%A3%E4%BE%9B%E6%87%89%E9%8F%88%E6%8A%95%E8%B3%87%E5%9C%B0%E5%9C%96-%E7%94%A2%E6%A5%AD%E7%86%B1%E8%A9%B1-6a0d49e71f0ea618e1913ba2"
-  },
-  {
-   "title": "玻璃基板概念股（數位時代）",
-   "url": "https://www.bnext.com.tw/article/91547/glass-substrate-concept-stocks-tgv"
-  },
-  {
-   "title": "探針卡四雄估值（Money 錢）",
-   "url": "https://www.moneyweekly.com.tw/_Article?AID=255174"
-  },
-  {
-   "title": "21經濟網：國際油價飆漲近4%，布油創7個月新高，黃金跌穿4000美元（10/24）",
-   "url": "https://21jingji.com/article/20261024/herald/5c6b98184625070b47f04e92195237fe.html"
-  },
-  {
-   "title": "CNBC: Gold heads for steep weekly loss as oil prices fuel Fed rate concerns（10/23）",
-   "url": "https://www.cnbc.com/amp/2026/10/23/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns.html"
-  },
-  {
-   "title": "Share Talk: Gold price falls below $4,000 as rising oil prices fuel inflation and interest rate fears",
-   "url": "https://www.share-talk.com/gold-price-falls-below-4000-as-rising-oil-prices-fuel-inflation-and-interest-rate-fears/"
-  },
-  {
-   "title": "鉅亨網：全球記憶體晶片股暴跌背後 是長鑫技術衝擊還是供需基本面修正？（10/20）",
-   "url": "https://news.cnyes.com/news/id/6634100"
-  },
-  {
-   "title": "鉅亨網：陸DRAM產能將激增31%！韓媒警告超級周期只剩2至3年",
-   "url": "https://news.cnyes.com/news/id/6633996"
-  },
-  {
-   "title": "自由財經：國際油價飆漲 二線塑化股一擁而上",
-   "url": "https://ec.ltn.com.tw/article/breakingnews/5377286"
   }
  ],
  "month": {
   "trend": "偏空震盪",
   "tone": "bad",
-  "text": "未來一個月（至 11 月下旬）以震盪整理看待：連假前加權 46,021 失守季線、外資 10 月賣超逾 8,200 億，油價破百推升利率疑慮、CoreWeave 等 AI 信用風險未解。關鍵日期：10/27 連假後開盤（台積電半年線 2,384 元）、10/28 Fed（預期按兵不動）、11 月初美科技財報、11 月中台股 Q3 法說。若加權守住 45,000 並站回季線，AI 權值才有反彈空間；否則以防禦、低本益比與高殖利率為主。",
+  "text": "未來一個月（至 11 月下旬）以震盪整理看待：10/27 連假後收 46,096、仍在季線附近，外資 10 月賣超逾 8,200 億但 10/27 對台積電賣壓明顯減輕、投信大買撐盤。關鍵日期：10/28 Fed（預期按兵不動）、本週微軟／Alphabet／亞馬遜財報、11 月中台股 Q3 法說。若加權守住 45,000 並站穩季線，AI 權值才有反彈空間；否則以防禦、低本益比與高殖利率為主。",
   "do": [
    "新資金分 3 批，跌深再買，不追高",
    "AI 高本益比股逢反彈減碼、設停利",
@@ -182,9 +158,24 @@
  },
  "flows": [
   {
+   "sector": "投信撐盤",
+   "dir": "in",
+   "text": "10/27 投信買超 236.45 億，三大法人合計買超 31.42 億"
+  },
+  {
+   "sector": "記憶體（力積電）",
+   "dir": "in",
+   "text": "10/27 外資買超力積電 5 萬 6,012 張居冠，記憶體族群走強"
+  },
+  {
+   "sector": "面板（友達）",
+   "dir": "out",
+   "text": "10/27 外資賣超友達 9 萬 5,960 張居冠"
+  },
+  {
    "sector": "晶圓代工／電子權值",
    "dir": "out",
-   "text": "外資主要調節台積電等電子權值與指數 ETF，10/22 單日賣超 816 億"
+   "text": "外資連 13 日賣台積電，但 10/27 僅 1,618 張、賣壓驟減"
   },
   {
    "sector": "金融",
@@ -192,19 +183,9 @@
    "text": "外資轉買合庫金、兆豐金、元大金，投信加碼中信金"
   },
   {
-   "sector": "傳產（鋼鐵、塑化）",
-   "dir": "in",
-   "text": "中鋼獲外資買超 16.8 萬張居冠，投信買台塑化、台塑、南亞"
-  },
-  {
    "sector": "電信／高股息",
    "dir": "in",
    "text": "中華電、遠傳、台灣大逆勢創高，資金偏好防禦股"
-  },
-  {
-   "sector": "中小型電子（PCB、被動元件、光學）",
-   "dir": "in",
-   "text": "資金由權值股轉向載板、被動元件、玻纖布等族群"
   }
  ],
  "sectorWhy": {
@@ -477,9 +458,9 @@
   }
  ],
  "assets": {
-  "黃金": "油價推升升息預期，持有成本變高、CTA 賣出",
-  "布蘭特原油": "美以可能再攻伊朗，10/23 結算 116.7 美元",
-  "費半": "10/23 反彈 0.44%，週線仍跌 3.2%、連三黑",
+  "黃金": "油價回落緩解升息焦慮，10/27 重回 4,000 美元",
+  "布蘭特原油": "上週 10/23 結算 116.7 美元高點後回落",
+  "費半": "10/26 美科技因 Anthropic IPO 消息反彈",
   "記憶體（美光）": "長鑫 4F² 新製程、中國擴產疑慮",
   "新台幣": "外資賣超、美元走強",
   "美國10年公債": "10/7 殖利率觸 5.36% 後回落，避險買盤回流"
