@@ -1,12 +1,24 @@
 {
- "date": "2026-10-27",
- "summary": "連假後 10/27 台股開高走低再收紅：加權最高 46,585，終場 46,096（+55 點、+0.12%），成交 9,765 億。外資賣超 81 億但對台積電只賣 1,618 張、為這波連賣最少，投信大買 236 億撐盤，三大法人合計買超 31 億。美股 10/26 因 Anthropic 遞件 IPO 帶動 AI 樂觀，那斯達克 +0.82%、S&P 500 +0.7%；油價回落、金價重回 4,000 美元。本週關鍵：10/28 Fed、微軟／Alphabet／亞馬遜財報。",
+ "date": "2026-10-28",
+ "summary": "費半 10/27 大漲 3.6%、那斯達克 +1.18%（Anthropic IPO 帶動晶片股），台股 10/28 開高逾 700 點、盤中最高 46,950 站回季線，台積電一度 2,430 元；油價續跌（WTI 約 100 美元、-1.7%）、金價回到約 4,074 美元。外資現貨仍偏賣，今晚 Fed 決議與微軟、Alphabet 財報是下一個關鍵。",
  "items": [
   {
-   "title": "連假後收紅、投信買 236 億",
+   "title": "費半 +3.6%、台股站回季線",
    "tone": "good",
-   "text": "10/27 加權開高至 46,585 後一度翻黑，終場 46,096（+54.8 點）；投信買超 236.45 億、外資賣超 81.04 億、自營商賣超約 124 億，三大法人合計買超 31.42 億。外資賣台積電僅 1,618 張，為這波連賣最少。",
-   "impact": "外資賣壓減輕、投信撐盤，季線附近整理；看本週 Fed 與美科技財報"
+   "text": "費半 10/27 大漲 3.6%，台指期夜盤 +774 點；10/28 加權開高逾 700 點、盤中最高 46,949.98，11:22 約 46,824（+728）。",
+   "impact": "AI 權值止跌回升，季線轉為支撐觀察點"
+  },
+  {
+   "title": "Fed 今晚決議、財報週",
+   "tone": "neutral",
+   "text": "Fed 兩天會議 10/27 開始，預期按兵不動；微軟、Alphabet 10/28 盤後財報，市場關注 AI 支出是否帶來營收。",
+   "impact": "財報優於預期有利 AI 供應鏈，反之回檔風險大"
+  },
+  {
+   "title": "外資現貨仍偏賣",
+   "tone": "bad",
+   "text": "分析師指外資現貨仍賣超，10/27 外資賣超 81 億、投信買 236 億撐盤。",
+   "impact": "漲勢延續需外資回補，否則易開高走低"
   },
   {
    "title": "Anthropic 遞件 IPO、美科技反彈",
@@ -25,21 +37,33 @@
    "tone": "bad",
    "text": "10/23 布蘭特結算 116.72 美元（+3.1%，4 月來最高）、WTI 103.27 美元（+3.8%），美以可能再攻伊朗、胡塞攻擊沙烏地設施；道瓊 -652 點，S&P 500 -0.52%、週跌 0.5%。",
    "impact": "推升通膨與利率疑慮，壓抑高本益比股；塑化、油輪受惠，航空受壓"
-  },
-  {
-   "title": "費半週線連三黑、ADR 小彈",
-   "tone": "neutral",
-   "text": "費半 10/22 重挫 6.72% 後，10/23 逆勢 +0.44% 收 10,779，週線仍跌 3.21%、連 3 週下跌；台積電 ADR 10/23 +1.49%。台積電現股 10/22 收 2,385 元，貼近半年線 2,384 元。",
-   "impact": "10/27 開盤補跌與反彈並存，台積電守半年線與否決定 AI 權值方向"
-  },
-  {
-   "title": "外資 10 月賣超逾 8,200 億",
-   "tone": "bad",
-   "text": "外資 10 月以來累計賣超逾 8,200 億元，10/22 單日賣超 817 億；新台幣一度貶至 32.6。八大公股行庫連日買進護盤，與外資對作。",
-   "impact": "權值股與外資持股高的 AI 股籌碼面偏弱，內需、低本益比高殖利率股相對抗跌"
   }
  ],
  "sources": [
+  {
+   "title": "台股盤中漲逾600點站回季線 台積電最高衝2430元（NOWnews 10/28）",
+   "url": "https://www.nownews.com/news/6887200"
+  },
+  {
+   "title": "費半大漲3.6%激勵台股開高近800點（民視 10/28）",
+   "url": "https://ftvnews.com.tw/news/detail/2026A28W0188"
+  },
+  {
+   "title": "專家看盤》台股反攻來了？台積挑戰季線 記憶體、矽光子買盤回流（新頭殼 10/28）",
+   "url": "https://newtalk.tw/news/view/2026-10-28/1067808"
+  },
+  {
+   "title": "力積電放量飆4.52％（自由財經 10/28）",
+   "url": "https://ec.ltn.com.tw/article/breakingnews/5620442"
+  },
+  {
+   "title": "Stock Market Today Oct. 27, 2026: Nasdaq and Russell 2000 gain as Anthropic lifts tech（TheStreet）",
+   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026"
+  },
+  {
+   "title": "S&P 500, Nasdaq advance as oil eases ahead of Fed decision（Kitco/AP 10/27）",
+   "url": "https://www.kitco.com/news/off-the-wire/2026-10-27/sp-500-nasdaq-advance-oil-eases-ahead-fed-decision"
+  },
   {
    "title": "費半反彈助攻 南亞科漲7%率記憶體走強（旺得富 10/27）",
    "url": "https://wantrich.chinatimes.com/news/20261027900181-420101"
@@ -79,116 +103,23 @@
   {
    "title": "外資連13砍台積電！今賣壓驟減 反手狂買力積電5.6萬張（ETtoday 10/27）",
    "url": "https://finance.ettoday.net/news/3261727"
-  },
-  {
-   "title": "外資大砍友達9.6萬張最凶（鉅亨 10/27）",
-   "url": "https://news.cnyes.com/news/id/6638620"
-  },
-  {
-   "title": "Stock Market Today Oct. 26, 2026: Nasdaq, S&P 500 jump after Anthropic IPO announcement（TheStreet）",
-   "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026"
-  },
-  {
-   "title": "〈貴金屬盤後〉金價收復4000美元 油價下跌緩解升息焦慮（CMoney）",
-   "url": "https://www.cmoney.tw/forum/article/186758071"
-  },
-  {
-   "title": "美股盤後：油價衝破100美元 道瓊挫逾650點 費半小幅收紅、周線連三黑（鉅亨 10/24）",
-   "url": "https://news.cnyes.com/news/id/6636803"
-  },
-  {
-   "title": "How major US stock indexes fared Friday 10/23/2026（Yahoo/AP）",
-   "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201458598.html"
-  },
-  {
-   "title": "Market Review: October 23, 2026（eOption）",
-   "url": "https://www.eoption.com/market-review-october-23-2026/"
-  },
-  {
-   "title": "證交所宣布台股連休四天 27日才開盤（經濟日報）",
-   "url": "https://money.udn.com/money/story/5607/9832123"
-  },
-  {
-   "title": "晶片股反彈、台積電ADR勁揚 台股連假後16檔錯殺股拚反攻（中天）",
-   "url": "https://ctinews.com/news/items/6Bal79V2WQ"
-  },
-  {
-   "title": "別被台積電ADR反彈騙了？專家：下周 5 大未爆彈（中時 10/24）",
-   "url": "https://www.chinatimes.com/realtimenews/20261024001390-260410"
-  },
-  {
-   "title": "CoreWeave Bond Yields Hit 15.5%, Shares at 17-Month Lows（Benzinga 2026-10）",
-   "url": "https://www.benzinga.com/markets/tech/26/10/62470728/coreweave-bond-yields-15-5-percent-shares-17-month-lows"
-  },
-  {
-   "title": "CoreWeave Debt Stress Mounts: Bond Yield Hits Record（Benzinga 2026-10）",
-   "url": "https://www.benzinga.com/markets/bonds/26/10/62541064/coreweave-debt-stress-mounts-bond-yield-hits-record-as-stock-suffers-44-billion-wipeout"
-  },
-  {
-   "title": "CoreWeave bond yields stay near 15% as AI stocks rebound（CNBC 2026-10-19）",
-   "url": "https://www.cnbc.com/2026/10/19/coreweave-oracle-ai-credit-stress.html"
-  },
-  {
-   "title": "CoreWeave's Bond Rout Should Make the Fed Cautious（Bloomberg 2026-10-20）",
-   "url": "https://www.bloomberg.com/opinion/articles/2026-10-20/coreweave-s-bond-rout-should-make-the-fed-cautious"
-  },
-  {
-   "title": "Fed Rate Decision October 2026: Hike or Hold on 28 Oct?（Admiral Markets）",
-   "url": "https://admiralmarkets.com/analytics/traders-blog/fed-rate-decision-october-2026"
-  },
-  {
-   "title": "外資連10賣狂砍8,380億！台股跌529點回測季線（理財周刊）",
-   "url": "https://www.moneyweekly.com.tw/ArticleData/Info/Article/256862"
-  },
-  {
-   "title": "26-10-23 台股休市：季線失守後 10/27 開盤展望（方格子）",
-   "url": "https://vocus.cc/article/6adab984fd89780001412fea"
-  },
-  {
-   "title": "外資大撤退！10天瘋砍台股8380億元 三大法人剩投信苦撐（中時 2026-10-20）",
-   "url": "https://www.chinatimes.com/realtimenews/20261020003242-260410"
-  },
-  {
-   "title": "台股週報》外資狂賣逃殺 轉進傳產金融（yam 2026-10-19）",
-   "url": "https://n.yam.com/Article/20261019856192"
-  },
-  {
-   "title": "台股震盪1291點收最低！外資大賣816億 專家曝止跌關鍵（工商 2026-10-22）",
-   "url": "https://www.chinatimes.com/realtimenews/20261022003738-260410"
-  },
-  {
-   "title": "台塑化快漲停、南亞喜收半根停板…台塑四寶逆勢漲（今周刊 2026-10-13）",
-   "url": "https://www.businesstoday.com.tw/article/category/183008/post/202610130008/"
-  },
-  {
-   "title": "台塑化、南亞目標價調高（經濟日報）",
-   "url": "https://money.udn.com/money/story/5607/9784444"
-  },
-  {
-   "title": "〈台股盤後〉台積電休息 PCB、玻纖布題材強勁（鉅亨網）",
-   "url": "https://news.cnyes.com/news/id/6631985"
-  },
-  {
-   "title": "【10/22 產業即時新聞】玻璃陶瓷飆漲7.66%，台玻強勢帶頭（CMoney）",
-   "url": "https://www.cmoney.tw/notes/note-detail.aspx?nid=1282387"
   }
  ],
  "month": {
-  "trend": "震盪",
-  "tone": "neutral",
-  "text": "連假後 10/27 收 46,096、仍在季線附近整理；外資對台積電賣壓驟減、投信大買撐盤，AI 情緒因 Anthropic 遞件 IPO 回溫，但油價仍在 115 美元附近、CoreWeave 等 AI 信用風險未解。關鍵在 10/28 Fed、本週微軟／Alphabet／亞馬遜財報與 11 月中台股 Q3 法說。",
+  "trend": "震盪偏多",
+  "tone": "good",
+  "text": "10/28 盤中站回季線，AI 權值與記憶體、矽光子買盤回流；但外資現貨仍賣、Fed 仍偏鷹，未來一個月以震盪偏多看待，追高宜分批。",
   "points": [
-   "加權 10/27 收 46,096（+55 點），仍在季線 46,207 附近整理",
-   "外資賣台積電降到 1,618 張（這波最少），投信單日買超 236 億撐盤",
-   "10/28 Fed 預期按兵不動；本週微軟、Alphabet、亞馬遜財報決定 AI 方向",
-   "守住 45,000 且站回季線，AI 權值才有反彈空間；跌破則以防禦股為主",
-   "布蘭特仍約 115 美元，美伊談判若破局，升息疑慮會再壓評價"
+   "10/28 盤中漲逾 700 點、最高 46,950，站回季線 46,207",
+   "費半 10/27 +3.6%，台積電 ADR +3%，台積電盤中 2,430 元",
+   "外資現貨仍偏賣超，漲勢要看外資是否回補",
+   "今晚 Fed 預期按兵不動，市場仍押 2027 年中前可能再升息（推估分歧）",
+   "微軟、Alphabet 今晚財報：AI 投資能否轉成營收，決定 AI 股下一段"
   ],
   "do": [
-   "新資金分 3 批，跌深再買，不追高",
-   "AI 高本益比股逢反彈減碼、設停利",
-   "優先買估值已在河流中低段、AI 評等為進場的股票",
-   "保留現金與債券 ETF 作為緩衝"
+   "已持有的 AI 權值續抱，新資金分 2～3 批、不追急漲",
+   "優先買估值在河流中低段、AI 評等為進場的股票",
+   "財報與 Fed 前後波動大，保留現金與債券 ETF 緩衝"
   ]
  },
  "flows": [
@@ -235,7 +166,7 @@
   {
    "name": "矽光子／CPO",
    "trend": "升溫",
-   "why": "AI 資料中心「光進銅退」，研調估 CPO 市場 2026～2031 年複合成長逾 35%，2026～2027 年開始大規模佈署；台積電 CoPoS 與 NVIDIA Rubin Ultra 導入時程是放量關鍵。",
+   "why": "AI 資料中心「光進銅退」，研調估 CPO 市場 2026～2031 年複合成長逾 35%，2026～2027 年開始大規模佈署；10/28 矽光子買盤回流。",
    "demand": "CPO 市場 2026～2031 CAGR 逾 35%（鉅亨引研究機構）",
    "codes": [
     "3081",
@@ -380,24 +311,24 @@
  "chains": [
   {
    "title": "美伊談判 → 油價回落、金價回 4,000",
-   "date": "10/26～10/27",
+   "date": "10/26～10/28",
    "conf": "中",
    "horizon": "1～2 週",
    "steps": [
     "沙烏地、巴基斯坦、土耳其官員赴德黑蘭；伊朗表示條件達成可在 7 天內重開荷莫茲海峽",
     "布蘭特 10/26 觸 117 美元後，10/27 回落約 1% 至 114.8 美元（週線仍漲約 5%）",
-    "油價回落緩解通膨與升息疑慮，持有黃金的機會成本下降，金價重回 4,000 美元"
+    "油價續跌（WTI 約 100 美元、10/27 -1.7%），通膨與升息疑慮降溫，金價升到約 4,074 美元"
    ],
    "in": [
     {
      "asset": "黃金",
-     "move": "重回 4,000 美元"
+     "move": "約 4,074 美元"
     }
    ],
    "out": [
     {
      "asset": "原油",
-     "move": "布蘭特 -1%"
+     "move": "WTI -1.7%"
     }
    ],
    "win": {
@@ -411,22 +342,22 @@
   },
   {
    "title": "Anthropic IPO → AI 晶片情緒回溫",
-   "date": "10/26～10/27",
+   "date": "10/26～10/28",
    "conf": "中",
    "horizon": "1～4 週",
    "steps": [
     "Anthropic 10/26 公開 S-1：上半年營收 163 億美元，預計 11/16 當週以 ANT 上市，估值傳 1.5～2 兆美元",
     "輝達 +2.4%、博通與美光走高，那斯達克 +0.82%",
-    "10/27 台積電 +15 元收 2,400，外資對台積電賣超降到 1,618 張"
+    "10/27 費半大漲 3.6%、那斯達克 +1.18%；10/28 台積電盤中 2,430 元，台股站回季線"
    ],
    "in": [
     {
-     "asset": "AI 晶片",
-     "move": "輝達 +2.4%"
+     "asset": "費半",
+     "move": "+3.6%"
     },
     {
      "asset": "台積電",
-     "move": "+0.6%"
+     "move": "盤中 +1.3%"
     }
    ],
    "out": [],
@@ -508,38 +439,51 @@
   }
  ],
  "assets": {
-  "黃金": "美伊談判讓油價回落、升息疑慮降溫，重回 4,000 美元",
-  "布蘭特原油": "10/26 觸 117 美元後回落，美伊談判帶來降溫期待",
-  "費半": "Anthropic 遞件 IPO，輝達 +2.4% 帶動 AI 晶片反彈",
+  "黃金": "油價續跌、升息疑慮降溫，約 4,074 美元",
+  "布蘭特原油": "美伊談判，連兩天回落",
+  "費半": "Anthropic IPO 帶動晶片股，10/27 +3.6%",
   "記憶體（美光）": "Anthropic IPO 與 SK 海力士大漲帶動記憶體反彈",
   "新台幣": "外資賣超、美元走強",
   "美國10年公債": "10/7 殖利率觸 5.36% 後回落，避險買盤回流"
  },
  "changes": [
-  "盤勢判斷：由「偏空震盪」調整為「震盪」——外資賣壓減輕、投信大買",
-  "油價：布蘭特 10/26 觸 117 美元後回落到約 114.8（美伊談判），金價重回 4,000 美元",
-  "AI：Anthropic 10/26 遞件 IPO，輝達 +2.4%、那斯達克 +0.82%，台積電 +15 元收 2,400",
-  "記憶體：由「長鑫新製程賣壓」轉為反攻，南亞科 +6.5%、華邦電 +5.5%，外資買力積電 5.6 萬張",
-  "法人：三大法人由 10/22 賣超 817 億轉為買超 31 億"
+  "盤勢判斷：由「震盪」調整為「震盪偏多」——加權站回季線",
+  "費半：10/27 大漲 3.6%（前一天 +0.82%），台積電 ADR +3%",
+  "台股：由 10/27 小漲 55 點變成 10/28 盤中大漲逾 700 點",
+  "油價：WTI 續跌約 1.7% 到 100 美元附近；金價升到約 4,074 美元",
+  "族群：記憶體（力積電 +4.5%）、矽光子買盤回流"
  ],
  "prev": {
-  "date": "2026-10-26",
-  "trend": "偏空震盪",
+  "date": "2026-10-27",
+  "trend": "震盪",
   "themes": {
    "矽光子／CPO": "升溫",
    "測試介面／探針卡": "升溫",
    "CoWoS／先進封裝": "高檔",
    "玻璃基板／TGV": "升溫",
-   "HBM／記憶體缺貨": "高檔",
+   "HBM／記憶體缺貨": "升溫",
    "2 奈米／EUV": "高檔",
    "AI 伺服器電源／散熱": "高檔"
   },
   "chains": [
-   "中東衝突 → 油價破百、黃金反跌",
-   "長鑫新製程 → 記憶體股賣壓",
+   "美伊談判 → 油價回落、金價回 4,000",
+   "Anthropic IPO → AI 晶片情緒回溫",
+   "SK 海力士大漲 → 台系記憶體反攻",
    "AI 信用風險 → 資金撤出 AI 權值"
   ],
   "flows": [
+   [
+    "投信撐盤",
+    "in"
+   ],
+   [
+    "記憶體（力積電）",
+    "in"
+   ],
+   [
+    "面板（友達）",
+    "out"
+   ],
    [
     "晶圓代工／電子權值",
     "out"
@@ -549,15 +493,7 @@
     "in"
    ],
    [
-    "傳產（鋼鐵、塑化）",
-    "in"
-   ],
-   [
     "電信／高股息",
-    "in"
-   ],
-   [
-    "中小型電子（PCB、被動元件、光學）",
     "in"
    ]
   ]
