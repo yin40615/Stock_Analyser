@@ -178,5 +178,16 @@
   "base": 42,
   "bull": 20,
   "moon": 6
+ },
+ "frontier": {
+  "market": "邊緣 AI／網通與醫療工業電腦",
+  "tam_g": null,
+  "pen": null,
+  "lead": {
+   "tech": false,
+   "eco": false,
+   "scale": false
+  },
+  "why": "邊緣運算占營收 2026Q1 已 37%、醫療 30%，法人估 2026 營收約 82 億元年增逾 26%（uanalyze 2026/9）；本次搜尋未找到研究機構的市場成長率與導入率，故 tam_g／pen 留空；機器人控制器仍在樣品階段，無證據顯示技術／生態／規模領先。"
  }
 }
