@@ -163,5 +163,16 @@
    "title": "ABF 族群漲多拉回（財報狗）",
    "url": "https://statementdog.com/news/16962"
   }
- ]
+ ],
+ "frontier": {
+  "market": "AI／ASIC 用高階 ABF 載板",
+  "tam_g": null,
+  "pen": null,
+  "lead": {
+   "tech": true,
+   "eco": true,
+   "scale": true
+  },
+  "why": "報導指欣興在美系 AI ASIC 載板市占逾 70%，輝達 Blackwell 載板市占逾 30%，為台廠最大 ABF 廠（經濟日報 2026；口徑為單一客戶市占，非全球）；高盛估 ABF 供需缺口 2026H2 14% 擴至 2028 年 51%。TAM 成長率未取得，留空。"
+ }
 }
