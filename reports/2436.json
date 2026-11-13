@@ -157,5 +157,16 @@
    "stage": "出貨",
    "fact": "AI 伺服器散熱需求帶動智慧應用 2025 年營收年增 40%"
   }
- ]
+ ],
+ "frontier": {
+  "market": "AI 伺服器散熱風扇馬達驅動 IC／USB PD",
+  "tam_g": null,
+  "pen": null,
+  "lead": {
+   "tech": false,
+   "eco": false,
+   "scale": false
+  },
+  "why": "2026Q1 營收 10.48 億元年增 32%，主因伺服器風扇馬達驅動 IC；NB USB Type-C/PD 滲透率報導稱逾 70%（媒體）。未找到市場成長率與導入率，領先地位缺乏明確證據，故留空。"
+ }
 }
