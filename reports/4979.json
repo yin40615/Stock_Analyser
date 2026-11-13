@@ -186,5 +186,16 @@
   "base": 35,
   "bull": 20,
   "moon": 8
+ },
+ "frontier": {
+  "market": "高速光收發模組（800G／1.6T、ZR）與 CW 雷射",
+  "tam_g": null,
+  "pen": null,
+  "lead": {
+   "tech": true,
+   "eco": true,
+   "scale": false
+  },
+  "why": "TrendForce：2026 全球 800G 以上光模組近 6,300 萬組、成長 2.6 倍；華星光 800G ZR/ZR+ 已通過主要客戶認證、2026/1 起出貨，公司稱 400G／800G ZR 市占有望 5 成以上（法說 2025/12，公司自述）；CW 雷射月產能 2026Q4 150 萬顆擴至 2027 年 600 萬顆以上；整體規模仍小於中國與海外模組大廠，故 scale 不標；多年期 CAGR 未查到，tam_g 留空。"
  }
 }
