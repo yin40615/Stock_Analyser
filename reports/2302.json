@@ -132,5 +132,16 @@
    "url": "https://poorstock.com/earningcall/2302"
   }
  ],
- "themes": []
+ "themes": [],
+ "frontier": {
+  "market": "分離式半導體元件（整流二極體等）",
+  "tam_g": null,
+  "pen": null,
+  "lead": {
+   "tech": false,
+   "eco": false,
+   "scale": false
+  },
+  "why": "本業為電子整流二極體與半導體零件（半導體占營收 95.2%），2026/8 營收年增 87.7%、9 月年增約 40%；未查得市場複合成長率與導入率故留空，領先地位無證據，不標記。"
+ }
 }
