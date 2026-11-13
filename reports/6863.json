@@ -175,5 +175,16 @@
    "title": "永道-KY 月營收（HiStock）",
    "url": "https://histock.tw/stock/6863/財務報表"
   }
- ]
+ ],
+ "frontier": {
+  "market": "RFID 電子標籤（服飾、物流、生鮮零售）",
+  "tam_g": null,
+  "pen": null,
+  "lead": {
+   "tech": false,
+   "eco": false,
+   "scale": false
+  },
+  "why": "RFID 標籤占營收約 97.9%；2026 前三季營收 42.86 億元年增 48.4%，Q3 創單季新高（優分析）。未查得 RFID 市場複合成長率與導入率故留空；越南廠量產供應美國客戶，但技術、生態、規模領先缺乏證據，不標記。"
+ }
 }
