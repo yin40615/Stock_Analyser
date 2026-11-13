@@ -141,5 +141,16 @@
    "url": "https://tw.stock.yahoo.com/quote/6651"
   }
  ],
- "themes": []
+ "themes": [],
+ "frontier": {
+  "market": "AI 伺服器散熱風扇／網通電子零組件材料加工",
+  "tam_g": null,
+  "pen": null,
+  "lead": {
+   "tech": false,
+   "eco": false,
+   "scale": false
+  },
+  "why": "2026/7 月營收年增 56%、8 月年增 62%，公司稱 AI 相關 D/C FAN 與網通應用需求增加；前 9 月累計 14 億元年增 21.2%。未查得細分市場成長率與導入率故留空；領先地位缺乏證據，不標記。"
+ }
 }
