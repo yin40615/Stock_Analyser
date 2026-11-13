@@ -146,5 +146,9 @@
    "title": "大聯大 營收表（Yahoo 股市）",
    "url": "https://tw.stock.yahoo.com/quote/3702.TW/revenue"
   }
- ]
+ ],
+ "frontier": {
+  "na": true,
+  "why": "電子零組件通路商，毛利率約 4%，Q2 營收 4,562 億元年增 82% 來自代理線需求與記憶體缺貨，無自有技術，前沿科技規則不適用"
+ }
 }
