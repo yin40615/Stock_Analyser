@@ -152,5 +152,16 @@
    "title": "志聖分析（Money 錢）",
    "url": "https://www.moneyweekly.com.tw/_Article?AID=209251"
   }
- ]
+ ],
+ "frontier": {
+  "market": "AI 先進封裝與先進 PCB 製程設備",
+  "tam_g": null,
+  "pen": null,
+  "lead": {
+   "tech": true,
+   "eco": true,
+   "scale": false
+  },
+  "why": "前三季營收 80.23 億元年增 84.2%、EPS 10.67 元；已訂未銷訂單中先進封裝 54%、先進 PCB 38%（2026/9 報導）；透過 G2C+ 聯盟與策略入股整合先進封裝設備生態。未找到設備市場成長率與導入率故留空；規模無市占證據。"
+ }
 }
