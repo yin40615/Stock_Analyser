@@ -141,5 +141,16 @@
    "url": "https://statementdog.com/analysis/3556"
   }
  ],
- "themes": []
+ "themes": [],
+ "frontier": {
+  "market": "觸控面板控制 IC（筆電／平板等）",
+  "tam_g": null,
+  "pen": null,
+  "lead": {
+   "tech": false,
+   "eco": false,
+   "scale": false
+  },
+  "why": "觸控 IC 占營收約 95%，前 10 月營收 10.73 億元年增 32%，2026Q1 毛利率 49.3%、營益率 16.7%；為成熟觸控市場，競爭對手含矽統、義隆，未找到成長率與導入率，領先證據不足。"
+ }
 }
