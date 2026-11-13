@@ -158,5 +158,16 @@
    "title": "華景電配息（中時新聞網 2026-06-03）",
    "url": "https://wantrich.chinatimes.com/news/20260603900650-420101"
   }
- ]
+ ],
+ "frontier": {
+  "market": "半導體先進製程微污染防治（AMC）設備",
+  "tam_g": null,
+  "pen": null,
+  "lead": {
+   "tech": false,
+   "eco": false,
+   "scale": false
+  },
+  "why": "AMC 設備占營收約 84%，受 2 奈米等先進製程與海外廠擴產帶動；先進封裝（SoIC/CoWoS/CoPoS）仍在與客戶洽談規格，最快 2027 才貢獻（聯合報 2026/6）。未找到可引用的市場成長率與導入率，故留空；無足夠證據判定領先。"
+ }
 }
