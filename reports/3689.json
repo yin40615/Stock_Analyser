@@ -141,5 +141,16 @@
    "title": "湧德(3689)可以買嗎？（FinLab）",
    "url": "https://finlab.finance/stocks/3689"
   }
- ]
+ ],
+ "frontier": {
+  "market": "800G／1.6T 光通訊連接器與線材（AI 交換器／伺服器）",
+  "tam_g": null,
+  "pen": null,
+  "lead": {
+   "tech": false,
+   "eco": false,
+   "scale": false
+  },
+  "why": "2025 營收 62.07 億元年增 20.5%；已打入輝達 GB200 與北美 CSP 供應鏈並小量出貨 SFP 連接器與線材，光通訊占比 2026 可望達雙位數（媒體／法人推估）。未找到市場成長率與導入率，領先證據不足，故留空。"
+ }
 }
