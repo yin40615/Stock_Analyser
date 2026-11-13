@@ -157,5 +157,16 @@
    "stage": "出貨",
    "fact": "Hot Swap MOSFET 切入 NVIDIA 機櫃 Sidecar，AI 應用營收占比約 12%"
   }
- ]
+ ],
+ "frontier": {
+  "market": "AI 伺服器電源功率半導體（熱插拔 MOSFET、BBU、800V SiC/GaN）",
+  "tam_g": 30,
+  "pen": null,
+  "lead": {
+   "tech": false,
+   "eco": false,
+   "scale": false
+  },
+  "why": "AI 伺服器電源相關的運算與儲存應用功率元件，2025-28 年複合成長約 30%（券商估計，僅中國大陸市場口徑，全球整體功率半導體約 9.5%，2024-30）；導入率無可靠數字故留空。公司熱插拔 MOSFET 報導已切入 NVIDIA 機櫃 Sidecar、BBU 開始出貨，AI 營收占比由首季 2-4% 升至約 12%，但規模小、技術與生態領先地位缺乏獨立證據，lead 皆不認定。"
+ }
 }
