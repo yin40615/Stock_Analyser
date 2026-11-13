@@ -204,5 +204,16 @@
   "base": 50,
   "bull": 25,
   "moon": 10
+ },
+ "frontier": {
+  "market": "EUV 光罩盒與 FOUP 晶圓載具（2 奈米先進製程）",
+  "tam_g": null,
+  "pen": null,
+  "lead": {
+   "tech": true,
+   "eco": false,
+   "scale": true
+  },
+  "why": "公司自述 EUV POD 全球市占逾七成、EUV 光罩傳送盒逾八成（2026/7 報導），2 奈米量產帶動需求；2026H1 營收 41.8 億元年增 22%，前 7 月 EUV Pod 營收達去年同期 120%。市場成長率無可靠來源故留空；市占為公司自述。"
  }
 }
