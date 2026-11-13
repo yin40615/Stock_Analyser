@@ -183,5 +183,16 @@
   "base": 40,
   "bull": 22,
   "moon": 8
+ },
+ "frontier": {
+  "market": "低介電（Low Dk／T-glass）玻纖布",
+  "tam_g": 40,
+  "pen": null,
+  "lead": {
+   "tech": false,
+   "eco": false,
+   "scale": false
+  },
+  "why": "Prismark：2025 全球低介電玻纖布約 3.92 億美元、年增 41%，2026-27 年仍年增逾 40%，AI 伺服器與交換器占 72%；T-glass 穩定量產者以日東紡為主，富喬是否具高階 T-glass 量產能力報導不一，泰國新廠 2027Q3 才量產，故 lead 不標。"
  }
 }
