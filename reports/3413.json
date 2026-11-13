@@ -147,5 +147,16 @@
    "title": "京鼎法說會重點 20251223（富果）",
    "url": "https://blog.fugle.tw/post/earnings-call-3413-2025-12-23"
   }
- ]
+ ],
+ "frontier": {
+  "market": "半導體前段設備（EFEM／模組代工）",
+  "tam_g": 15,
+  "pen": null,
+  "lead": {
+   "tech": false,
+   "eco": true,
+   "scale": false
+  },
+  "why": "券商追蹤報告預估 2026 年半導體前段設備產值成長約 15～20%（statementdog），台積電 2026 資本支出上修至 600～640 億美元；京鼎最大客戶為美系設備商（應材），訂單能見度到 2026 年底，屬供應鏈生態位置；未見市占資料，技術與規模不標。"
+ }
 }
