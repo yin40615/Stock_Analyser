@@ -154,5 +154,16 @@
    "title": "弘塑分析（Money 錢）",
    "url": "https://www.moneyweekly.com.tw/_Article?AID=246191"
   }
- ]
+ ],
+ "frontier": {
+  "market": "先進封裝濕製程設備（CoWoS／SoIC／面板級）",
+  "tam_g": null,
+  "pen": null,
+  "lead": {
+   "tech": true,
+   "eco": true,
+   "scale": true
+  },
+  "why": "高盛：弘塑占台積電 CoWoS 濕清洗設備約 50%、日月光與矽品近 100%，並為台積電 SoIC 清洗設備獨家供應商（technews 2026/8）；SoIC 營收占比 2027-28 年可能升至 30～40%，面板級設備 ASP 約為 CoWoS 的 3 倍、2027 認列營收；台積電 CoWoS 月產能 2026 底 13～14 萬片、2027 底 18～20 萬片。未找到設備市場的 CAGR，tam_g／pen 留空。"
+ }
 }
