@@ -153,5 +153,16 @@
    "title": "波若威做什麼（nStock）",
    "url": "https://shop.nstock.tw/波若威做什麼.html"
   }
- ]
+ ],
+ "frontier": {
+  "market": "CPO／矽光子與 AI 光通訊元件",
+  "tam_g": null,
+  "pen": null,
+  "lead": {
+   "tech": false,
+   "eco": true,
+   "scale": false
+  },
+  "why": "報導稱已納入輝達 AI 基礎建設生態系，CPO 產品 2026Q3 小量測試、Q4 千級量產（法說 2026/3），2026 營收市場預期約 30.7 億元年增 37.9%。CPO 市場 CAGR 各家預測差異極大（有報導稱 2030 前逾 170%，來源不一），不採用；導入率未知。"
+ }
 }
